@@ -13,30 +13,29 @@ export const viewport: Viewport = {
 };
 
 export const metadata: Metadata = {
-  metadataBase: new URL('https://roastmyinterview.me'),
-  title: 'RoastMyInterview.me | Face Dick Headerson',
+  metadataBase: new URL('https://roastmyinlaws.me'),
+  title: 'RoastMyInlaws.me | Face Dick Headerson',
   description:
-    'Face tough-love executive hiring manager Dick Headerson. Zero buzzwords, brutal reality checks, and instant termination for corporate jargon.',
+    'Submit your in-law drama, holiday horror stories, and family boundaries to the hot seat. Dick Headerson provides tough love, zero fluff, and instant reality checks.',
   keywords: [
-    'mock interview',
-    'AI interview roast',
+    'in-laws roast',
+    'mother-in-law advice',
+    'family boundary audit',
     'Dick Headerson',
-    'job interview practice',
-    'corporate buzzwords',
-    'interview prep'
+    'toxic in-laws roast'
   ],
   openGraph: {
-    title: 'RoastMyInterview.me | Face Dick Headerson',
+    title: 'RoastMyInlaws.me | Face Dick Headerson',
     description:
-      'Think you can survive a mock interview without buzzwords? Face Dick Headerson and see if you get hired or terminated on question 1.',
-    url: 'https://roastmyinterview.me',
-    siteName: 'RoastMyInterview.me',
+      'Think you can handle your passive-aggressive in-laws? Face Dick Headerson and see if you survive the hot seat.',
+    url: 'https://roastmyinlaws.me',
+    siteName: 'RoastMyInlaws.me',
     images: [
       {
-        url: '/dick-avatar.jpg',
+        url: 'https://roastmyinterview.me/dick-avatar.jpg',
         width: 1200,
         height: 630,
-        alt: 'Dick Headerson - RoastMyInterview.me',
+        alt: 'Dick Headerson - RoastMyInlaws.me',
       },
     ],
     locale: 'en_US',
@@ -44,10 +43,10 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'RoastMyInterview.me | Face Dick Headerson',
+    title: 'RoastMyInlaws.me | Face Dick Headerson',
     description:
-      'Survive the hot seat with tough-love hiring manager Dick Headerson without corporate buzzwords.',
-    images: ['/dick-avatar.jpg'],
+      'Dick Headerson shreds spineless boundaries and holiday nightmares. Step into the hot seat.',
+    images: ['https://roastmyinterview.me/dick-avatar.jpg'],
   },
   icons: {
     icon: 'data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🔥</text></svg>',
